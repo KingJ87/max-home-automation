@@ -1,1 +1,1 @@
-deb [trusted=yes] http://www.dmitry-kazakov.de/distributions buster main
+deb [trusted=yes] http://www.dmitry-kazakov.de/distributions bullseye main
